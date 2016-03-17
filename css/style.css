@@ -1,10 +1,16 @@
-img {
-
-}
-
 .row {
   margin: 3%;
 }
+
+.jumbotron {
+  background-color: #ABC6CF;
+    color:;
+}
+
+body {
+  background-color: #B3DBE8;
+}
+
 
 /*.jumbotron {
       padding:30px 15px;
